@@ -1,5 +1,4 @@
-import numpy as np
-import pandas as pd
+# main code in session
 
 
 class Animal:
